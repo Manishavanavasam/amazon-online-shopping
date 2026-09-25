@@ -17,7 +17,7 @@ import java.util.concurrent.Executors;
  * Reuses Customer, Product, and CartItem JavaBeans.
  */
 public class AmazonWebServer {
-    private static final int PORT = 8080;
+    private static final int PORT = System.getenv("PORT") != null ? Integer.parseInt(System.getenv("PORT")) : 8080;
     private static final String ORDERS_FILE = "orders.txt";
     private static final List<Product> catalog = new ArrayList<>();
 
