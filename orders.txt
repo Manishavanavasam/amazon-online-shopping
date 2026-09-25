@@ -1,0 +1,40 @@
+=======================================================
+ORDER RECORD - 2026-09-25 22:18:59
+Customer Name    : Priya Sharma
+Contact Number   : 9876543210
+Delivery Address : 14/B Green Glen Layout, Bellandur, Bengaluru
+Payment Method   : UPI
+Purchased Items  :
+   - Laptop          x 1  @ Rs. 55,000.00 = Rs. 55,000.00
+   - Headphones      x 2  @ Rs. 2,499.00 = Rs. 4,998.00
+Subtotal         : Rs. 59,998.00
+Total Discount   : -Rs. 6,049.80
+Grand Total Paid : Rs. 53,948.20
+=======================================================
+
+=======================================================
+ORDER RECORD - 2026-09-25 22:25:25
+Customer Name    : Priya Sharma
+Contact Number   : 9876543210
+Delivery Address : 14/B Green Glen Layout, Bengaluru
+Payment Method   : Cash on Delivery
+Purchased Items  :
+   - Smartphone      x 1  @ Rs. 24,999.00 = Rs. 24,999.00
+Subtotal         : Rs. 24,999.00
+Total Discount   : -Rs. 2,499.90
+Grand Total Paid : Rs. 22,499.10
+=======================================================
+
+=======================================================
+ORDER RECORD - 2026-09-25 22:28:46
+Customer Name    : Priya Sharma
+Contact Number   : 9876543210
+Delivery Address : 14/B Green Glen Layout, Bengaluru
+Payment Method   : Cash on Delivery
+Purchased Items  :
+   - Headphones      x 1  @ Rs. 2,499.00 = Rs. 2,499.00
+Subtotal         : Rs. 2,499.00
+Total Discount   : -Rs. 0.00
+Grand Total Paid : Rs. 2,499.00
+=======================================================
+
